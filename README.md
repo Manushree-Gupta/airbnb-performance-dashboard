@@ -68,3 +68,5 @@ Due to GitHub file size limitations, the PBIX file is hosted separately.
 **Download PBIX:** https://drive.google.com/file/d/1gI14NMuTt3CS5WWqNd_k06ce6pXr-YUx/view?usp=sharing
 
 **Dashboard Preview:** See screenshots and PDF report in this repository.
+
+**Dataset used:** https://mavenanalytics.io/data-playground/airbnb-listings-reviews
