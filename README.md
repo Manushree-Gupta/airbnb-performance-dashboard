@@ -60,3 +60,11 @@ The project explores:
 2. Toggle buttons for Demand Intensity and Market Size analysis
 3. Dynamic KPI cards
 4. Multi-page dashboard design
+
+**Power BI File**
+
+Due to GitHub file size limitations, the PBIX file is hosted separately.
+
+**Download PBIX:** https://drive.google.com/file/d/1gI14NMuTt3CS5WWqNd_k06ce6pXr-YUx/view?usp=sharing
+
+**Dashboard Preview:** See screenshots and PDF report in this repository.
