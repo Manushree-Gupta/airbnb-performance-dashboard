@@ -14,7 +14,7 @@ The project explores:
 
 **Business Questions Answered**
 
-##### Growth Analysis
+###### Growth Analysis
 
 1. How did Airbnb listings evolve over time?
 2. When did Airbnb experience peak growth?
@@ -26,7 +26,7 @@ The project explores:
 2. How significant is Superhost presence across cities?
 3. Which cities demonstrate the strongest demand intensity?
 
-###### Pricing \& Guest Experience
+###### Pricing & Guest Experience
 
 1. Which room types command the highest prices?
 2. Which cities deliver the best guest experience?
